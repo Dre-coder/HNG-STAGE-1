@@ -37,4 +37,3 @@ curl -X 'GET' \
 }
 
 
-This `ReadMe.md` file provides an overview of the API, how to run the application, and details about the available endpoint and functions.
